@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  The software in this package is distributed under the GNU General Public
+  License version 2, as published by the Free Software Foundation, but with
+  the Classpath exception.  You should have received a copy of the GNU General
+  Public License (GPL) and the Classpath exception along with this program.
+ -->
+ <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>sf.mavenext</groupId>
+        <artifactId>mavenext-build-jdk7</artifactId>
+        <version>1</version>
+    </parent>
+    <groupId>sf.blacksun</groupId>
+    <artifactId>blacksun-util</artifactId>
+    <version>0.14-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <licenses>
+        <license>
+            <name>GNU General Public License version 2, with Classpath exception</name>
+        </license>
+    </licenses>
+</project>
